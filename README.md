@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cauemaldonadolima&label=Profile%20views&color=0e75b6&style=flat" alt="cauemaldonadolima" /> </p>
 
-- 🔭 I’m currently working on [Habit Master](https://github.com/CaueMaldonadoLima/habit-master)
+- 🔭 I’m currently working on [Moneyfy](https://github.com/CaueMaldonadoLima/moneyfy)
 
 - 👨‍💻 All of my projects are available at [https://cauemaldonado-blog.vercel.app/projects](https://cauemaldonado-blog.vercel.app/projects)
 
