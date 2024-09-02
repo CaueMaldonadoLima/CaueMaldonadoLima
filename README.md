@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cauemaldonadolima&label=Profile%20views&color=0e75b6&style=flat" alt="cauemaldonadolima" /> </p>
 
-- 🔭 I’m currently working on [Manett](https://github.com/CaueMaldonadoLima/manett) and [MDND.UI](https://github.com/CaueMaldonadoLima/mdnd.ui)
+- 🔭 I’m currently working on [Manett](https://github.com/CaueMaldonadoLima/manett) and [mdnd.ui](https://github.com/CaueMaldonadoLima/mdnd.ui)
 
 - 👨‍💻 All of my projects are available at [https://cauemaldonado-blog.vercel.app/projects](https://cauemaldonado-blog.vercel.app/projects)
 
